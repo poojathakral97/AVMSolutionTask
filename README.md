@@ -31,7 +31,7 @@ https://digispace-dashboard.vercel.app
 
 
 GitHub Repository:
-https://github.com/poojathakral97/dashboard-ui.git
+https://github.com/poojathakral97/AVMSolutionTask.git
 
 LinkedIn:
 https://www.linkedin.com/in/poojathakral85/
@@ -41,7 +41,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/poojathakral97/dashboard-ui.git
+git clone https://github.com/poojathakral97/AVMSolutionTask.git
 
 Navigate into the project:
 
